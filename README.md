@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis EMANE BILE FELICIEN DAVY
 
 ## 💫 À propos de moi
-Élève ingénieur en 5ème année à l'École Supérieure Internationale de Génie Numérique (ESIGN), passionné par le développement backend et la gestion de projets techniques. Fortement investi dans la création de solutions numériques innovantes et la conduite d'équipes de développement.
+Élève ingénieur en 5ème année à l'École Supérieure Internationale de Génie Numérique (ESIGN), passionné par le développement et la gestion de projets techniques. Fortement investi dans la création de solutions numériques innovantes et la conduite d'équipes de développement.
 
 ## 🚀 Expérience
 
