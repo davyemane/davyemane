@@ -46,7 +46,7 @@ Interface de programmation pour une plateforme d'apprentissage en ligne
 ## 📫 Contact
 - 📧 Email: davyemane@esign.cm
 - 📱 Téléphone: +237 697379517 / 676469014
-- 💼 LinkedIn: [Mon profil](https://www.linkedin.com/in/your-profile/)
+- 💼 LinkedIn: [Mon profil](https://www.linkedin.com/in/davy-emane-99520525b/)
 
 ---
 
